@@ -1,0 +1,9 @@
+*~
+.#*
+DEADJOE
+node*
+vendor*
+.vscode
+.DS_Store
+*.bak
+*.bkp
